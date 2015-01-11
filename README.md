@@ -6,7 +6,7 @@ Library to speak text.
 
 Add this to your project.clj:
    
-    [facts/speech-synthesis "1.0.0"]
+    [org.clojars.dhleong/speech-synthesis "1.0.1"]
 
 Add to your ns:
 
